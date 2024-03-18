@@ -270,15 +270,15 @@ img{
 }
 
 @media(max-width:640px){
-    body{
+    /* body{
         min-height: 100vh;
         /* min-width: 640px */
-    }
+    /* }
 
-    /* img{
-        /* min-width: 640px; */
+    img{
+        min-width: 640px;
         /* max-height: 100%; */
-    } */
+    /* } */ 
 
     .container{
         max-width: 360px;
