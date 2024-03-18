@@ -272,11 +272,11 @@ img{
 @media(max-width:640px){
     body{
         min-height: 100vh;
-        min-width: 640px
+        /* min-width: 640px */
     }
 
     img{
-        max-width: 640px;
+        min-width: 640px;
         /* max-height: 100%; */
     }
 
