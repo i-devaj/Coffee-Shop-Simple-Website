@@ -259,7 +259,7 @@ img{
 
 @media(max-width:1120px){
     .container{
-        max-width: 645px;
+        /* max-width: 645px; */
         padding: 2rem 1rem;
         margin-top: -14vh;
     }
@@ -283,7 +283,7 @@ img{
     .container{
         max-width: 360px;
         padding: 2rem 1rem;
-        margin-top: -10vh;
+        margin-top: -8vh;
         margin-bottom: 10vh;
     }
     
